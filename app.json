@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "MobitillCharts",
+    "description": "Mobitill charts",
+    "slug": "MobitillCharts",
+    "privacy": "public",
+    "sdkVersion": "25.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#ffffff"
+  }
+}
